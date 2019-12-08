@@ -1,0 +1,24 @@
+{
+  "name": "mml-to-tex",
+  "version": "1.0.0",
+  "description": "A basic MML to Tex conversor.",
+  "main": "dist/mml_to_tex.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianlucas/mml-to-tex.git"
+  },
+  "keywords": [
+    "tex",
+    "mml",
+    "conversor"
+  ],
+  "author": "Ian Lucas <ianlucas_ferreira@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianlucas/mml-to-tex/issues"
+  },
+  "homepage": "https://github.com/ianlucas/mml-to-tex#readme"
+}
