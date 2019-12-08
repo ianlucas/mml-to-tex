@@ -10,6 +10,6 @@ mml_to_tex(
 )
 ```
 
-`value` is the HTML Element to be translated to Tex. Usually the `<math>` element.
+`value` is the HTML Element to be translated into Tex. Usually the `<math>` element.
 
 It outputs a string, the translated code in Tex.
